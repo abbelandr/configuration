@@ -1,0 +1,11 @@
+{
+    "name": "/",
+    "type": "dir",
+    "children": [
+        {
+            "name": "readme.txt",
+            "type": "file",
+            "content": "SGVsbG8sIHRoaXMgaXMgYSBtaW5pbWFsIFZGUy4="
+        }
+    ]
+}

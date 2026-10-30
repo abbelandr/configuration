@@ -1,0 +1,29 @@
+{
+    "name": "/",
+    "type": "dir",
+    "children": [
+        {
+            "name": "a",
+            "type": "dir",
+            "children": [
+                {
+                    "name": "b",
+                    "type": "dir",
+                    "children": [
+                        {
+                            "name": "c",
+                            "type": "dir",
+                            "children": [
+                                {
+                                    "name": "deep_file.txt",
+                                    "type": "file",
+                                    "content": "VGhpcyBpcyBhIHZlcnkgZGVlcCBmaWxlLg=="
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
